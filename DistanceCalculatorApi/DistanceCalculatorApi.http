@@ -1,0 +1,6 @@
+@DistanceCalculatorApi_HostAddress = http://localhost:5012
+
+GET {{DistanceCalculatorApi_HostAddress}}/
+Accept: application/json
+
+###
